@@ -1,0 +1,17 @@
+npm init
+npm i dotenv express multer mongoose
+in package.json under scripts "start":node index.json
+installing nodemon since our application is not listening to the changes we made.
+we make all the models
+timestamps in mongoose
+we r adding validate email, minLength,etc from jwt lectures
+npm i validator for email validation
+Array in cataegory
+learn how to save data in db
+Application not able to send json object
+install bcrypt to hash password
+use this bcrypyt in userschema.js
+we have handled errore in routes/auth.js learning how to loop through json objects
+login in auth.js. an unhandled pro,mise is coming as a warning. made sure that password don't get viewed.
+update users.js in routes. We can update and delete user info
+

@@ -1,0 +1,12 @@
+npm i npx create-react-app
+npm i react-router-dom@5.3
+
+topbar
+header: React and node blog+Image
+sidebar
+
+post: are the cards in home page
+posts: are the collections of post
+singlePost: Consists of only 1 post
+
+logout topbar usr=0, pp.jsx user=0
