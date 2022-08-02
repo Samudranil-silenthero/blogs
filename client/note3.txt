@@ -1,0 +1,18 @@
+,
+  "proxy": "http://localhost:5000/api/"
+useState  freecodecamp
+useEffect freecodecamp, w3
+axios
+props https://reactjs.org/docs/components-and-props.html
+home-->posts-->post-->singlePost
+Now setting the link to the posts for going to single post in the home page using <link>
+now work on Sidebar.jsx
+search url workded on home.jsx\
+move to categories and worked to fetch data from backend.(i.e) category names come from backend.
+now add link to those categories list i.e where we will be redirected
+register page. 
+            onSubmit, 
+            button type="submit/, 
+            e.preventDefault();
+            error handling
+login: context api, state magement https://medium.com/swlh/redux-context-api-for-state-management-in-react-ca9fb8e6a6dd
